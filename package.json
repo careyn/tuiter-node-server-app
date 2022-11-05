@@ -1,5 +1,5 @@
 {
-  "type" : "module",
+  "type": "module",
   "name": "tuiter-node-server-app",
   "version": "1.0.0",
   "description": "NodeJS http sercer for the Tuiter application",
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/careyn/tuiter-node-server-app#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }
