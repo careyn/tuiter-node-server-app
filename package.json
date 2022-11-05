@@ -1,0 +1,29 @@
+{
+  "type" : "module",
+  "name": "tuiter-node-server-app",
+  "version": "1.0.0",
+  "description": "NodeJS http sercer for the Tuiter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/careyn/tuiter-node-server-app.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "server",
+    "HTTP"
+  ],
+  "author": "Nathan Carey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/careyn/tuiter-node-server-app/issues"
+  },
+  "homepage": "https://github.com/careyn/tuiter-node-server-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
